@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+<BlockGame>
+	<Screen>
+		<Size w="1000" h="600"></Size>
+	</Screen>
+	<GamePanel>
+		<!-- Block  Image -->
+		<Block>
+			<Obj kcal="300" type="1" img="f1.png"></Obj>
+			<Obj kcal="400" type="1" img="f2.png" />
+			<Obj kcal="500" type="1" img="f3.png" />
+			<Obj kcal="500" type="1" img="f4.png" />
+			<Obj kcal="500" type="1" img="f5.png" />
+			<Obj kcal="500" type="1" img="f6.png" />
+			<Obj kcal="500" type="1" img="f7.png" />
+			<Obj kcal="500" type="1" img="f8.png" />
+			<Obj kcal="500" type="1" img="f9.png" />
+			<Obj kcal="500" type="1" img="f10.png" />
+			<Obj kcal="500" type="1" img="f11.png" />
+			<Obj kcal="500" type="1" img="f12.png" />
+			<Obj kcal="500" type="1" img="f13.png" />
+			<Obj kcal="500" type="1" img="f14.png" />
+			<Obj kcal="500" type="1" img="f15.png" />
+			<Obj kcal="500" type="1" img="f16.png" />
+			<Obj kcal="500" type="1" img="f17.png" />
+			<Obj kcal="500" type="1" img="f18.png" />
+			<Obj kcal="500" type="1" img="f19.png" />
+			<Obj kcal="500" type="1" img="f20.png" />
+			
+
+			<Obj kcal="200" type="2" img="e1.png"></Obj>
+			<Obj kcal="200" type="2" img="e2.png" />
+			<Obj kcal="200" type="2" img="e3.png" />
+			<Obj kcal="200" type="2" img="e4.png" />
+			<Obj kcal="200" type="2" img="e5.png" />
+			<Obj kcal="200" type="2" img="e6.png" />
+			<Obj kcal="200" type="2" img="e7.png" />
+			<Obj kcal="200" type="2" img="e8.png" />
+			<Obj kcal="200" type="2" img="e9.png" />
+			<Obj kcal="200" type="2" img="e10.png" />
+			<Obj kcal="200" type="2" img="e11.png" />
+			<Obj kcal="200" type="2" img="e12.png" />
+			<Obj kcal="200" type="2" img="e13.png" />
+			<Obj kcal="200" type="2" img="e14.png" />
+			<Obj kcal="200" type="2" img="e15.png" />
+			<Obj kcal="200" type="2" img="e16.png" />
+			<Obj kcal="200" type="2" img="e17.png" />
+			<Obj kcal="200" type="2" img="e18.png" />
+			<Obj kcal="200" type="2" img="e19.png" />
+			<Obj kcal="200" type="2" img="e20.png" />
+		</Block>
+		
+		<!-- User Image -->
+		<User>
+			<Obj img = "person.jpg"/>
+		</User>
+		
+		<!-- Game ItemImage -->
+		<GameItem>
+		    <Obj img="addTime.png" />
+			<Obj img="heart.png" />
+			<Obj img="set0.png" />
+		</GameItem>
+		
+		<!-- Panel Iamge -->
+		<Panel>
+			<Obj x = "10" y = "330" w ="187" h="228"  img="itemPan.png" />
+			<Obj x = "10" y = "215" w ="187" h="111"  img="kcal.png" />
+			<Obj x = "10" y = "100" w ="187" h="111"  img="mission.png" />
+		</Panel>
+			
+			
+		
+
+	</GamePanel>
+</BlockGame>
